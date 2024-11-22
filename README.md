@@ -1,4 +1,4 @@
-#HERE, THE FOLLOWING TASKS ARE IMPLEMENTED_:#
+# HERE, THE FOLLOWING TASKS ARE IMPLEMENTED_:
 
 Let's say there is a file with document numbers.
 A document number is a string consisting of letters and numbers (without service characters).
