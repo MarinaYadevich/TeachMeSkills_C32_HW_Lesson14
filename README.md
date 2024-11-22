@@ -1,3 +1,4 @@
+#HERE, THE FOLLOWING TASKS ARE IMPLEMENTED_:#
 Let's say there is a file with document numbers.
 A document number is a string consisting of letters and numbers (without service characters).
 Let this file contain each document number on a new line and no other information in the line,
